@@ -5,6 +5,9 @@
 💡 Passionnée par l’ingénierie de données : ingestion, modélisation, automatisation et visualisation  
 
 ---
+## 📄 Mon CV
+
+Vous pouvez consulter mon CV ici : [Télécharger le CV](./CV_Kaouter_RHAZLANI.pdf)
 
 ## 📌 Projets GitHub
 
