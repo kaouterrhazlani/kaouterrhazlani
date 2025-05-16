@@ -7,7 +7,7 @@
 ---
 ## 📄 Mon CV
 
-Vous pouvez consulter mon CV ici : [Télécharger le CV](./CV_Kaouter_RHAZLANI.pdf)
+Vous pouvez consulter mon CV ici : [Télécharger le CV](./cv/CV_Kaouter_RHAZLANI.pdf)
 
 ## 📌 Projets GitHub
 
