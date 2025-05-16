@@ -34,11 +34,11 @@
 
 ## 🛠️ Compétences techniques
 
-- **Langages & outils** : Python, SQL, Power BI, Looker Studio, Excel, Pyspark ,Databricks
-- **Base de données** : PostgreSQL, BigQuery, SQLite
-- **ETL / Pipeline** : Docker, SQL Server, SSIS, Pandas , Azure data Factory
-- **Cloud & Data Viz** : Google Cloud, Looker Studio
-- **Workflow & Documentation** : Notion, GitHub, Draw.io
+- **Langages & outils** : Python, SQL, PySpark, Power BI, Looker Studio, Excel, Databricks  
+- **Bases de données** : PostgreSQL, BigQuery, SQLite  
+- **ETL & Pipelines** : SQL Server, SSIS, Pandas, Azure Data Factory, Docker  
+- **Cloud & Data Visualisation** : Google BigQuery, Looker Studio, Power BI  
+- **Workflow & Documentation** : GitHub, Notion, Draw.io
 
 ---
 
@@ -47,6 +47,11 @@
 - 🔗 [LinkedIn](https://www.linkedin.com/in/kaouterrhazlani/)  
 - 🌐 [Portfolio à venir](https://kaouterrhazlani.github.io)
 - 🔗 [![Portfolio](https://img.shields.io/badge/Portfolio-en%20ligne-blue?style=for-the-badge&logo=internet-explorer)](https://www.datascienceportfol.io/Kaouter1rhazlani)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=fff)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white)
 
 
 ---
