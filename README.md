@@ -34,9 +34,9 @@
 
 ## 🛠️ Compétences techniques
 
-- **Langages & outils** : Python, SQL, Power BI, Looker Studio, Excel, Bash
+- **Langages & outils** : Python, SQL, Power BI, Looker Studio, Excel, Pyspark ,Databricks
 - **Base de données** : PostgreSQL, BigQuery, SQLite
-- **ETL / Pipeline** : Docker, SQL Server, SSIS (en cours), Pandas
+- **ETL / Pipeline** : Docker, SQL Server, SSIS, Pandas , Azure data Factory
 - **Cloud & Data Viz** : Google Cloud, Looker Studio
 - **Workflow & Documentation** : Notion, GitHub, Draw.io
 
