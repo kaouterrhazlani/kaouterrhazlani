@@ -1,6 +1,6 @@
 # 👋 Bonjour, je suis Kaouter Rhazlani
 
-🎓 En formation Data Engineer chez Simplon  
+🎓 Admise à la formation Data Engineer chez Simplon  
 🔍 À la recherche d'une alternance à partir du **1er septembre 2025**  
 💡 Passionnée par l’ingénierie de données : ingestion, modélisation, automatisation et visualisation  
 
