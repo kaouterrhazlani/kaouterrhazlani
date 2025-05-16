@@ -46,9 +46,8 @@ Vous pouvez consulter mon CV ici : [Télécharger le CV](https://github.com/kaou
 ---
 
 ## 📫 Me contacter
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/kaouterrhazlani/)  
-- 🌐 [![Portfolio](https://img.shields.io/badge/Portfolio-en%20ligne-blue?style=for-the-badge&logo=internet-explorer)](https://www.datascienceportfol.io/Kaouter1rhazlani)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaouter-rhazlani/)
+- [![Portfolio](https://img.shields.io/badge/Portfolio-en%20ligne-blue?style=for-the-badge&logo=internet-explorer)](https://www.datascienceportfol.io/Kaouter1rhazlani)
 ---
 
 Merci pour votre visite ! 🌟
