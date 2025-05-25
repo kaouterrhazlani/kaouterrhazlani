@@ -60,9 +60,12 @@
   <a href="https://www.linkedin.com/in/kaouter-rhazlani/" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/LinkedIn-Kaouter%20Rhazlani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
+</p>
+<p>
   <a href="https://www.datascienceportfol.io/Kaouter1rhazlani" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Portfolio-en%20ligne-blue?style=for-the-badge&logo=internet-explorer" alt="Portfolio Badge" />
   </a>
 </p>
+
 
 <p style="font-style: italic; color:#666;">Merci pour votre visite ! 🌟</p>
