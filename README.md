@@ -2,7 +2,7 @@
 
 <p style="font-size: 1.1rem; font-weight: 600;">
   🎓 <strong>Admise à la formation Data Engineer chez Simplon</strong><br>
-  🔍 <strong>À la recherche d'une alternance à partir du <span style="color:#E44D26;">1er septembre 2025</span></strong><br>
+  🔍 <strong>À la recherche d'une alternance à partir du <span style="color:#E44D26;">13 Décembre 2025</span></strong><br>
   💡 Passionnée par l’ingénierie de données : ingestion, modélisation, automatisation et visualisation
 </p>
 
