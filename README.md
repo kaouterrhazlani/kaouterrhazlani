@@ -10,13 +10,12 @@
 
 <h2 style="color:#0078D7;">📄 Mon CV</h2>
 <p>
-  Vous pouvez consulter mon CV ici :  
-  <a href="https://raw.githubusercontent.com/kaouterrhazlani/cv/d51e6793b1eb5ac67f7b61e44bf8763a0fc2d978/CV_Kaouter_RHAZLANI.pdf" 
+  Vous pouvez consulter mon CV ici :
+  <a href="https://github.com/kaouterrhazlani/cv/blob/main/cv.pdf"
      target="_blank" 
      rel="noopener noreferrer" 
-     download="cv.pdf" 
      style="color:#E44D26; font-weight:600; text-decoration:none;">
-    Voir / Télécharger le CV (PDF)
+    Télécharger le CV (sur GitHub)
   </a>
 </p>
 
