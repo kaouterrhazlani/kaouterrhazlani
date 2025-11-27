@@ -1,9 +1,9 @@
 <h1 style="color:#0078D7; font-weight: 700;">👋 Bonjour, je suis <span style="color:#E44D26;">Kaouter Rhazlani</span></h1>
 
 <p style="font-size: 1.1rem; font-weight: 600;">
-  🎓 <strong>Admise à la formation Data Engineer chez Simplon</strong><br>
-  🔍 <strong>À la recherche d'une alternance à partir d' <span style="color:#E44D26;">Octobre 2025</span></strong><br>
-  💡 Passionnée par l’ingénierie de données : ingestion, modélisation, automatisation et visualisation
+  🎓 <strong> En formation Data Engineer chez Simplon</strong><br>
+  🔍 <strong>Alternante chez Jufmar group <span style="color:#E44D26;"></span></strong><br>
+
 </p>
 
 <hr style="border:1px solid #0078D7; margin: 20px 0;">
