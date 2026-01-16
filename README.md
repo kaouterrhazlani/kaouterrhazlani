@@ -2,7 +2,7 @@
 
 <p style="font-size: 1.1rem; font-weight: 600;">
   🎓 <strong> En formation Data Engineer chez Simplon</strong><br>
-  🔍 <strong>Alternante chez Jufmar group <span style="color:#E44D26;"></span></strong><br>
+  🔍 <strong>Alternante chez Jifmar group <span style="color:#E44D26;"></span></strong><br>
 
 </p>
 
