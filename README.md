@@ -1,10 +1,24 @@
 <h1>👋 Bonjour, je suis Kaouter Rhazlani</h1>
 
 ⚙️ **Data Engineer en alternance chez Jifmar Offshore Services** — Aix-en-Provence
-🎓 **Formation Data Engineer — Titre RNCP niveau 7 chez Simplon Sud**
+🎓 **Formation Data Engineer — Titre RNCP niveau 7 chez Simplon Sud** (octobre 2025 – avril 2027)
 🏅 **Certifiée Microsoft Fabric Data Engineer Associate (DP-700) et Dataiku Core Designer**
 
 Je développe des pipelines de traitements de données sur **Microsoft Fabric** : ingestion des données via différentes sources, pipelines en architecture médaillon, orchestration événementielle et automatisation.
+
+---
+
+## ⚓ Ce que je construis chez Jifmar
+
+Une chaîne de traitement des données RH, de l'API du SIRH jusqu'au provisioning des comptes employés.
+
+- **Ingestion** de 9 entités du SIRH rafraîchies toutes les 2 h, en chargement complet et incrémental — notebooks sur API REST, Dataflows Gen2, Copy Data
+- **Chargement incrémental** par Delta Change Data Feed : table de watermark et empreinte de ligne, pour ne retraiter que le delta
+- **Traitement** en architecture médaillon : nettoyage, normalisation et enrichissement des entités en PySpark
+- **Orchestration** planifiée ou déclenchée par événement — Eventstream et Activator
+- **Alerting** des erreurs techniques et métier, notifiées à l'équipe par e-mail et Teams via Power Automate
+- **Automatisation du cycle de vie des comptes** employés, de l'onboarding à l'offboarding — Entra ID, Azure Automation, PowerShell, Exchange Online
+- **PoC** d'intégration d'Airflow dans Microsoft Fabric
 
 ---
 
@@ -23,15 +37,19 @@ Je développe des pipelines de traitements de données sur **Microsoft Fabric** 
 
 ## 🎓 Projets de formation — Simplon Data Engineer
 
-> 🔒 **Code non public** — projets réalisés en équipe dans le cadre de la formation, non diffusables. Je peux en détailler l'architecture et mes contributions lors d'un échange.
+> Projets réalisés en équipe. Les dépôts ci-dessous sont ceux de mes équipes ; je peux détailler mes contributions lors d'un échange.
 
-**🚕 NYC Taxi — entrepôt analytique**
+### 💧 [Qualité de l'eau potable en France](https://github.com/kaouterrhazlani/water-quality-pipeline)
+Pipeline en architecture médaillon sur les analyses sanitaires nationales (SISE-Eaux, API Hub'Eau) : quatre tables analytiques finales, validation de la qualité des données et plus de 60 tests unitaires.
+`PySpark` · `Delta Lake` · `Databricks` · `Great Expectations` · `pytest`
+
+### 🛒 [ETL Brazilian E-commerce (Olist)](https://github.com/kaouterrhazlani/ETL-Brazilian-Ecommerce)
+Pipeline ETL bronze / silver / gold sur les données de vente Olist : 9 tables sources nettoyées et validées, restituées en schéma en étoile (6 dimensions, 6 tables de faits).
+`Python` · `PostgreSQL` · `SQL` · `architecture médaillon`
+
+### 🚕 [NYC Taxi — entrepôt analytique](https://github.com/Simplon-DE-P1-2025/nyc-taxi-pipeline-MarvelousSamurai)
 Entrepôt analytique des trajets de taxis new-yorkais : ingestion de fichiers Parquet, couches RAW / STAGING / FINAL, transformations et tests, restitution dans un tableau de bord.
 `Snowflake` · `Snowpark` · `dbt` · `GitHub Actions` · `Streamlit`
-
-**💧 Qualité de l'eau potable en France**
-Pipeline en architecture médaillon sur les analyses sanitaires nationales (SISE-Eaux, API Hub'Eau), avec validation de la qualité des données et tests unitaires.
-`PySpark` · `Delta Lake` · `Databricks` · `Great Expectations` · `pytest`
 
 **🎯 Segmentation client RFM**
 Scoring récence / fréquence / montant pour cibler les campagnes marketing : pipeline orchestré, modélisation en schéma en étoile et restitution, le tout conteneurisé.
@@ -63,12 +81,13 @@ Exploration de données épidémiologiques et nettoyage d'un jeu immobilier : jo
 
 | Domaine | Technologies |
 |---|---|
-| **Plateformes data & cloud** | Microsoft Fabric (Lakehouse, Warehouse, OneLake), Azure Key Vault, Entra ID |
-| **Ingestion et transformation** | PySpark, dbt, Delta Lake, API REST, architecture médaillon, ETL |
-| **Orchestration et versionnement** | Airflow, Data Pipelines, Git, Azure DevOps |
-| **Qualité et tests** | pytest, tests dbt, Great Expectations, Soda |
-| **Langages** | SQL, Python, Java, KQL |
-| **Pratiqués en projet** | Snowflake, Databricks, PostgreSQL, BigQuery, Looker Studio, Docker |
+| **Ingestion et intégration** | API REST, Dataflows Gen2, Copy Data, chargement complet et incrémental (Delta Change Data Feed) |
+| **Traitement et modélisation** | PySpark, Delta Lake, architecture médaillon |
+| **Orchestration et versionnement** | Data Pipelines, Eventstream, Activator, Power Automate, Git / Azure DevOps |
+| **Identité et automatisation** | Entra ID, service principals (SPN), Azure Key Vault, Azure Automation, PowerShell |
+| **Qualité et tests** | pytest, Great Expectations, Soda |
+| **Langages** | SQL, Python, PySpark |
+| **Pratiqués en projet** | Snowflake, dbt, Databricks, Airflow, PostgreSQL, BigQuery, Looker Studio, Docker |
 
 ---
 
